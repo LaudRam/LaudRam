@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Laudicia</h1>
-<h3 align="center">Welcome to my github! Still a work in progress...</h3>
+<h3 align="left">Welcome to my github! Still a work in progress...</h3>
 
-<img align="right" alt="Coding" width="400" src=""
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*pYJar6AxR4E6tXuD.gif">
+
 
 - 🌱 I’m currently learning **Software Engineering with ALX**
 
