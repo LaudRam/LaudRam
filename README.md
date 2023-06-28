@@ -8,7 +8,6 @@
 # <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*pYJar6AxR4E6tXuD.gif">
 
 
-- 🌱 I’m currently learning **Software Engineering with ALX**
 
 - 📫 How to reach me: **laudiciaramasenya@gmail.com**
 
