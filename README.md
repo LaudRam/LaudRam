@@ -1,6 +1,4 @@
-<p align="left">
-<img src="https://readme-typing-svg.demolab.com?lines=Hi 👋🏽!;My+Name+Is+Laudicia &font=Fira%80Code%center=true&size=40&width=500&height=80">
-</p>
+# <h1> Hi 👋🏽 I'm Laudicia</h1>
 
 # <h3 align="left">Welcome to my github! Still a work in progress...</h3>
 
