@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaudRam&layout=compact&theme=jolly&)](https://github.com/LaudRam/github-readme-stats)
 
-#### 💻 Check out my Frontend Mentor [Profile!](https://www.frontendmentor.io/profile/LaudRam)
+#### 💻 Check out my Frontend Mentor [Profile!](https://www.frontendmentor.io/profile/LaudRam/solutions)
 
 <br/>
 
