@@ -9,15 +9,12 @@
 
 #### 💻 Check out my <a href="https://www.frontendmentor.io/profile/LaudRam/solutions" target="_blank">Frontend Mentor</a> Profile!
 
-<br/>
-
-- 📫 How to reach me: [Email](mailto:laudiciaramasenya@gmail.com)
 
 # <h3 align="left">Connect with me:</h3>
 
-<p align="left">
+<h4 align="left">
 📧<a href="mailto: laudiciaramasenya@gmail.com" target="_blank">Email</a>
-</p>
+</h4>
 
 <p align="left">
 <a href="https://twitter.com/laud_rama" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laud_rama" height="30" width="40" /></a>
